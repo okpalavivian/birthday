@@ -1,14 +1,21 @@
-.each-slide-effect > div {
+.slider {
   display: flex;
-  align-items: center;
-  justify-content: center;
-  background-size: cover;
-  height: 350px;
-}
 
-.each-slide-effect span {
+  justify-content: center;
+  align-items: center;
+}
+.items {
+  width: 100px;
+  height: 100px;
+  margin: 20px;
   padding: 20px;
+  gap: 10px;
+  flex: auto;
+  display: flex;
   font-size: 20px;
-  background: #efefef;
-  text-align: center;
+  font-weight: 200;
+  flex-direction: column;
+  border-radius: 50px;
+  background: #61dce5;
+  box-shadow: 7px 7px 14px #52bbc3, -7px -7px 14px #70fdff;
 }
