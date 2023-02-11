@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/birthday/static/css/main.78312c8d.css",
+    "main.js": "/birthday/static/js/main.f20deceb.js",
+    "static/js/787.6609b868.chunk.js": "/birthday/static/js/787.6609b868.chunk.js",
+    "index.html": "/birthday/index.html",
+    "main.78312c8d.css.map": "/birthday/static/css/main.78312c8d.css.map",
+    "main.f20deceb.js.map": "/birthday/static/js/main.f20deceb.js.map",
+    "787.6609b868.chunk.js.map": "/birthday/static/js/787.6609b868.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78312c8d.css",
+    "static/js/main.f20deceb.js"
+  ]
+}
