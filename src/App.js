@@ -5,7 +5,7 @@ import Slider from './components/slider/Slider';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" style={{background: "black"}}>
       
     
       <Hero />
